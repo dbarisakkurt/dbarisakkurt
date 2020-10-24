@@ -11,10 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://visitor-badge.laobi.icu/badge?page_id=dbarisakkurt.dbarisakkurt) <br />  this is visitor badge
 -->
 
-Hi. I am Baris Akkurt - a software engineer working on C# and .NET applications since 2013. 
+Hi. I am Baris Akkurt - I graduated from Istanbul Technical University. I have been working as a software engineer since 2013. I use C# and .NET framework on a daily basis. 
+### 📌 My Github Stats ###
 
-### Personal Website 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dbarisakkurt&show_icons=true&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbarisakkurt)
+
+### 📫 How to reach me ###
 
 http://www.barisakkurt.net
